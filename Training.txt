@@ -6,6 +6,10 @@ Trainings to be started:
 BW6
 CA API
 
+
 Self Learning:
 Java
 Eclipse
+
+Be Ready for Intwerview
+
