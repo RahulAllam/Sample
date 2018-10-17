@@ -5,3 +5,5 @@ Git Hub
 Trainings to be started:
 BW6
 CA API
+
+Be Ready for Intwerview
